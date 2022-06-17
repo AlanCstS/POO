@@ -10,5 +10,7 @@ Consta de un menu de una taquería de nombre 'Los primos' el cual le va pregunta
 # Cambios
 
 Avance 1: Se me hizo notar que no especifiqué lo que se haría en el proyecto inicial, el cual era una simulación de una página web de compra de artículos tipo Amazon, proyecto en el cual no se podría implementar herencia, ergo, nada de los siguiente temas requeridos.  Por lo que tuve que reestructurar el proyecto al nuevo especificado con anterioridad y elaborar su UML 
+
 Avance 2: Comencé con el desarrollo del nuevo proyecto en el cual solo implemeté herencia, sin embargo, no incluí un main.cpp para correr y probar el programa. Cosa que hice para los siguientes avances.
+
 Avance 3 y 4: Debido a los problemas anteriores y tener que rehacer todo el proyecto desde 0, no tuve a tiempo mis avances, por lo cual no se me pudo dar una retroalimentación.
